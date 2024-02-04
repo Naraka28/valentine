@@ -1,0 +1,43 @@
+html{
+    font-family: 'Playfair Display', serif;
+}
+h1{
+    text-align: center;
+    height: 50px;
+    font-size: 64px;
+    color: black;
+}
+.center{
+    display: flex;
+    justify-content: center;
+}
+button{
+    position: absolute;
+    cursor: pointer;
+    display: flex;
+    padding: 10px 25px;
+    font-size: 22px;
+    height: 50px;
+    width: 90px;
+}
+.centerbtn{
+    display: flex;
+    justify-content: center;
+}
+.btnsize{
+    margin-top: 30px;
+    margin-right: 150px;
+    background-color: white;
+}
+.nobtnsize{
+    margin-top: 30px;
+    background-color: white;
+    left: 50%;
+}
+
+body{
+    background-image: url(tapice2.jpg);
+}
+.gato{
+    width: 30%;
+}

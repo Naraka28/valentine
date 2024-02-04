@@ -1,0 +1,51 @@
+h1{
+    text-align: center;
+    margin-top: 0px;
+}
+img{
+    display: block;
+    margin-right: 50%;
+    margin-left: 50%;
+}
+body{
+    background-color: brown;
+    background-image: url() ;
+    padding: 20px;
+}
+#menu{
+    width: 300px;
+    background-color: burlywood;
+    margin-left: auto;
+    margin-right: auto;
+}
+.flavor{
+    text-align: left;
+}
+.price{
+    text-align: right;
+}
+.item p{
+    display: inline-block;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-size: 18px;
+}
+hr{
+    background-color: brown;
+    border-color: brown;
+}
+footer{
+    font-size: 14px;
+}
+a{
+    color: black;
+}
+a:visited{
+    color: grey;
+}
+a:hover{
+    color: brown;
+}
+a:active{
+    color: white;
+}
